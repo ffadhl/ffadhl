@@ -85,9 +85,10 @@ Active student majoring in Informatics Engineering at Semarang State University 
   <img src="https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black" />
   <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white" />
 </div>
+<br>
 
-----
-
+<div>
+<h2> 📊 Statistic </h2>
 <div align="center"/>
 
 <img height="180em" src="https://github-readme-stats-aljn.vercel.app/api?username=ffadhl&theme=material-palenight&count_private=true&hide=contribs&show_icons=true" />
@@ -95,5 +96,5 @@ Active student majoring in Informatics Engineering at Semarang State University 
 <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ffadhl&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
+</div>
 
-----
