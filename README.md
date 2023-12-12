@@ -13,4 +13,16 @@ Active student majoring in Informatics Engineering at Semarang State University 
 
 <div>
 <h2> :iphone: Mobile Developer </h2>
+- [Google Bangkit2022 Mobile Development Student Batch 2 2023](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
+- Native Kotlin  Mobile Developer
+- MVVM/MVC pattern 
+- Language, frameworks & libraries
+<br>
+  <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
+  <img src = "https://img.shields.io/badge/Dart-%230678BE.svg?style=for-the-badge&logo=dart&logoColor=white" alt="kotlin"/>
+<br>
+  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
+  <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
+- Familiar Design tools
+
 </div>
