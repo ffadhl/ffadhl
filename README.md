@@ -1,4 +1,4 @@
-![bg github]()
+![bg github](https://github.com/ffadhl/githubAboutMe/blob/main/14_things_Pixel_GIF.gif)
 
 
 <div>
