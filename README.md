@@ -65,6 +65,27 @@ Active student majoring in Informatics Engineering at Semarang State University 
   <br>
 </div>
 
+<br>
+
+<div>
+  
+<h2> 🌟 UI/UX and Graphic Designer</h2>
+
+  <img align="right" width="300" alt="Animated pikacu pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/pikacu.gif"/>
+  
+- Well experienced with UI/UX Design
+- Tools <br>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black" />
+  <img src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=black" /
+  <br>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white" />
+</div>
+
 ----
 
 <div align="center"/>
