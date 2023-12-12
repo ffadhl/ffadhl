@@ -43,7 +43,9 @@ Active student majoring in Informatics Engineering at Semarang State University 
 <div>
   
 <h2> 🌐 Web Developer </h2>
-  
+
+ <img align="right" width="200" alt="Animated cat pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/nyancatgif.gif"/>
+
 - Frameworks
   <br>
   <img src = "https://img.shields.io/badge/Laravel-%23CB3837.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel"/>
