@@ -24,7 +24,7 @@ Active student majoring in Informatics Engineering at Semarang State University 
   <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
   <img src = "https://img.shields.io/badge/Dart-%230678BE.svg?style=for-the-badge&logo=dart&logoColor=white" alt="kotlin"/>
   <br>
-  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
   <br>
 - Familiar design tools
@@ -39,6 +39,28 @@ Active student majoring in Informatics Engineering at Semarang State University 
 </div>
 
 <br>
+
+<div>
+  
+<h2> 🌐 Web Developer </h2>
+
+- Frameworks
+  <br>
+  <img src = "https://img.shields.io/badge/Laravel-%23CB3837.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel"/>
+  <br>
+- Tech
+  <br>
+  <img src = "https://img.shields.io/badge/FrontEnd-%23FA0F00.svg?style=for-the-badge" alt = "FE" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+- 🌱 Learning in progress
+  <br>
+  <img src = "https://img.shields.io/badge/BackEnd-%23276DC3.svg?style=for-the-badge" alt = "BE" />
+  <br>
+</div>
 
 ----
 
