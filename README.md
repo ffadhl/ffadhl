@@ -14,7 +14,7 @@ Active student majoring in Informatics Engineering at Semarang State University 
 <div>
 <h2> :iphone: Mobile Developer </h2>
   
-  <img align="right" width="350" alt="Animated mobile pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/animated.gif"/>
+  <img align="right" width="350" alt="Animated mobile pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/andorid.gif"/>
   
 - [Google Bangkit2022 Mobile Development Student batch 2 2023](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
 - Native Kotlin Mobile Developer
