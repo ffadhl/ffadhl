@@ -13,54 +13,25 @@ Active student majoring in Informatics Engineering at Semarang State University 
 
 <div>
 <h2> :iphone: Mobile Developer </h2>
-
-- [Google Bangkit2022 Mobile Development Student Batch 2 2023](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
-- Native Kotlin  Mobile Developer
-- MVVM/MVC pattern 
-- Language, frameworks & libraries
-<br>
-  <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
-  <img src = "https://img.shields.io/badge/Dart-%230678BE.svg?style=for-the-badge&logo=dart&logoColor=white" alt="kotlin"/>
-<br>
-  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
-  <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
-
-- Familiar Design tools
-<br>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<br>
-
-</div>
-
-<div>
-<h2> :iphone: Mobile Developer </h2>
   
   <img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/pixel_mobile_clear.gif"/>
   
-- [Google Associate Android Developer](https://www.credential.net/e592e9f7-27ca-4341-8c98-3e0dc4797f7f?key=57e10d8e3f4071e454f1d37bd556aedaf5c73fe98fef402dba87e2c931e4092e)
-- [Google Bangkit2022 Mobile Development Graduate](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
-- Native Kotlin and Multiplatform Flutter Mobile Developer
-- Well experienced with UI/UX Design
-- MVVM/MVC/BLoC/Provider pattern 
+- [Google Bangkit2022 Mobile Development Student batch 2 2023](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
+- Native Kotlin Mobile Developer
+- MVVM/MVC pattern 
 - Language, frameworks & libraries
   <br>
   <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
-  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/Dart-%230678BE.svg?style=for-the-badge&logo=dart&logoColor=white" alt="kotlin"/>
+  <br>
   <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
-  <br>
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt = "npm" />
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
-  <img src = "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-  <img src = "https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="circleci"/>
   <br>
-- Design tools
+- Familiar design tools
   <br>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
   <br>
 - 🌱 Currently learn
   <br>
