@@ -79,7 +79,7 @@ Active student majoring in Informatics Engineering at Semarang State University 
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black" />
-  <img src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=black" /
+  <img src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black" />
