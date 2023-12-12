@@ -103,8 +103,8 @@ Active student majoring in Informatics Engineering at Semarang State University 
 <div>
 <h2> :coffee: 1:1 connect </h2>
 <p align="center">
-	<a href="https://github.com/ffadhl"><img src="https://icons8.com/icon/118557/github" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/fadhlhafizh/"><img src="https://icons8.com/icon/64154/linkedin" alt="LinkedIn"/></a>
+	<a href="https://github.com/ffadhl"><img src="https://img.icons8.com/clouds/100/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/fadhlhafizh/"><img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:fadhl.alhafizh@gmail.com"><img src="https://img.icons8.com/clouds/100/apple-mail.png" alt="Email"/></a>
 </p>
 </div>
