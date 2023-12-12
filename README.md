@@ -44,7 +44,7 @@ Active student majoring in Informatics Engineering at Semarang State University 
   
 <h2> 🌐 Web Developer </h2>
 
- <img align="right" width="200" alt="Animated cat pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/nyancatgif.gif"/>
+ <img align="right" width="350" alt="Animated cat pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/nyancatgif.gif"/>
 
 - Frameworks
   <br>
