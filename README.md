@@ -2,10 +2,10 @@
 
 <div>
 <h2> 👨🏻‍💻 About Me </h2>
-<img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/Fadhl.png"/>
+<img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/IMG_39.jpg"/>
 Active student majoring in Informatics Engineering at Semarang State University who has a career interest in Software Engineering, especially in the fields of Web Development, Mobile Development, and UI/UX Design. Has experience in several software development projects. This experience involves the design and implementation of web and mobile application designs. Equipped with skills to design and develop software architecture for web and mobile applications. In addition, skills in using various tools in Figma to support UI/UX Design development. Looking forward to developing a career in Software Engineering focusing on Web and Mobile Application development, as well as UI/UX Design.
 
-- 🌱 I’m currently learning **Android Development** using **Kotlin**
+- 🌱 I’m currently learning **Android Development** using **Flutter**
 
 ![Joined](https://img.shields.io/badge/Joined-September%2014,%202021-blue?style=flat&logo=github)
 ![Visits](https://badges.pufler.dev/visits/ffadhl/ffadhl)
@@ -17,6 +17,8 @@ Active student majoring in Informatics Engineering at Semarang State University 
   <img align="right" width="350" alt="Animated mobile pixel" src="https://github.com/ffadhl/githubAboutMe/blob/main/andorid.gif"/>
   
 - [Google Bangkit2022 Mobile Development Student batch 2 2023](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
+- Alterra Academy Mobile Engineer with Flutter
+- Flutter Mobile Engineer
 - Native Kotlin Mobile Developer
 - MVVM/MVC pattern 
 - Language, frameworks & libraries
